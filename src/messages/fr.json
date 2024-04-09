@@ -1,0 +1,43 @@
+{
+    "ForgotPassword": {
+        "BtnConfirm": "Confirmer",
+        "BtnNext": "Suivant",
+        "Code": "Code de sécurité",
+        "CodePlaceholder": "Entrez le code",
+        "ConfirmPassword": "Confirmer le mot de passe",
+        "ConfirmPasswordPlaceholder": "Confirmer le mot de passe",
+        "DescriptionCode": "Un message avec un code de vérification a été envoyé à votre email. Entrez le code pour continuer",
+        "DescriptionEmail": "Entrez l'email associé à votre compte",
+        "DescriptionPassword": "Pour réinitialiser le mot de passe, vous devez en créer un nouveau.",
+        "Email": "Email",
+        "EmailPlaceholder": "Entrez votre email",
+        "LinkBack": "Retour à la connexion",
+        "LinkCode": "Vous n'avez pas reçu de code de vérification ?",
+        "Password": "Nouveau mot de passe",
+        "PasswordPlaceholder": "Entrez le mot de passe",
+        "PasswordRequirements": "Veuillez considérer ces caractéristiques lors de la création du mot de passe :",
+        "PasswordRequirements1": "La longueur idéale est de 6 à 8 caractères.",
+        "PasswordRequirements2": "Doit inclure des lettres majuscules",
+        "PasswordRequirements3": "Doit inclure des lettres minuscules",
+        "PasswordRequirements4": "Doit inclure des chiffres",
+        "TitleCode": "Code de vérification",
+        "TitleEmail": "Mot de passe oublié ?",
+        "TitlePassword": "Réinitialiser le mot de passe"
+    },
+    "Language": {
+        "EN": "Anglais",
+        "ES": "Espagnol",
+        "FR": "Français"
+    },
+    "Login": {
+        "Description": "Lorem ipsum dolor sit amet consectetur. Suspendisse eleifend nibh eleifend arcu lectus.",
+        "Email": "Email",
+        "EmailPlaceholder": "Entrez votre email",
+        "ForgotPassword": "Mot de passe oublié ?",
+        "Login": "Connexion",
+        "Password": "Mot de passe",
+        "PasswordPlaceholder": "Entrez votre mot de passe",
+        "Title": "Connexion",
+        "Welcome": "Bienvenue !"
+    }
+}

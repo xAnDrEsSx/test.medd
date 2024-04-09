@@ -1,0 +1,43 @@
+{
+    "ForgotPassword": {
+        "BtnConfirm": "Confirm",
+        "BtnNext": "Next",
+        "Code": "Security code",
+        "CodePlaceholder": "Enter the code",
+        "ConfirmPassword": "Confirm password",
+        "ConfirmPasswordPlaceholder": "Confirm password",
+        "DescriptionCode": "A message with a verification code has been sent to your email. Enter the code to continue",
+        "DescriptionEmail": "Enter the email associated with your account",
+        "DescriptionPassword": "To reset the password, you must create a new one.",
+        "Email": "Email",
+        "EmailPlaceholder": "Enter your email",
+        "LinkBack": "Return to Login",
+        "LinkCode": "Haven't you received any verification code?",
+        "Password": "New password",
+        "PasswordPlaceholder": "Enter the password",
+        "PasswordRequirements": "Please consider these characteristics when creating the password:",
+        "PasswordRequirements1": "The ideal length is 6 to 8 characters.",
+        "PasswordRequirements2": "Must include uppercase letters",
+        "PasswordRequirements3": "Must include lowercase letters",
+        "PasswordRequirements4": "Must include numbers",
+        "TitleCode": "Verification code",
+        "TitleEmail": "Forgot your password?",
+        "TitlePassword": "Reset Password"
+    },
+    "Language": {
+        "EN": "English",
+        "ES": "Spanish",
+        "FR": "French"
+    },
+    "Login": {
+        "Description": "Lorem ipsum dolor sit amet consectetur. Suspendisse eleifend nibh eleifend arcu lectus.",
+        "Email": "Email",
+        "EmailPlaceholder": "Enter your email",
+        "ForgotPassword": "Forgot your password?",
+        "Login": "Login",
+        "Password": "Password",
+        "PasswordPlaceholder": "Enter your password",
+        "Title": "Login",
+        "Welcome": "Welcome!"
+    }
+}

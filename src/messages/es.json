@@ -1,0 +1,43 @@
+{
+    "ForgotPassword": {
+        "BtnConfirm": "Confirmar",
+        "BtnNext": "Siguiente",
+        "Code": "Código de seguridad",
+        "CodePlaceholder": "Ingrese el código",
+        "ConfirmPassword": "Confirmar contraseña",
+        "ConfirmPasswordPlaceholder": "Confirmar contraseña",
+        "DescriptionCode": "Se ha enviado un mensaje con un código de verificación a tu correo electrónico. Introduce el código para continuar",
+        "DescriptionEmail": "Ingresa el correo electrónico asociado a tu cuenta",
+        "DescriptionPassword": "Para restablecer la contraseña debe crea una nueva.",
+        "Email": "Correo electrónico",
+        "EmailPlaceholder": "Ingrese su correo",
+        "LinkBack": "Volver al Inicio de sesión",
+        "LinkCode": "¿No has recibido ningún código de verificación?",
+        "Password": "Nueva contraseña",
+        "PasswordPlaceholder": "Ingrese la contraseña",
+        "PasswordRequirements": "Tenga en cuenta estas características al crear la contraseña:",
+        "PasswordRequirements1": "La longitud ideal es de 6 a 8 caracteres.",
+        "PasswordRequirements2": "Debe incluir letras mayúsculas",
+        "PasswordRequirements3": "Debe incluir letras minúsculas",
+        "PasswordRequirements4": "Debe incluir números",
+        "TitleCode": "Código de verificación",
+        "TitleEmail": "¿Olvidaste tu contraseña?",
+        "TitlePassword": "Restablecer Contraseña"
+    },
+    "Language": {
+        "EN": "Inglés",
+        "ES": "Español",
+        "FR": "Francés"
+    },
+    "Login": {
+        "Description": "Lorem ipsum dolor sit amet consectetur. Suspendisse eleifend nibh eleifend arcu lectus.",
+        "Email": "Email",
+        "EmailPlaceholder": "Ingrese su correo",
+        "ForgotPassword": "¿Olvidaste tu contraseña?",
+        "Login": "Ingresar",
+        "Password": "Contraseña",
+        "PasswordPlaceholder": "Ingrese su contraseña",
+        "Title": "Iniciar sesión",
+        "Welcome": "Bienvenido!"
+    }
+}
